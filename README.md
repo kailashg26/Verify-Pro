@@ -10,16 +10,18 @@ In this paper, we develop a novel system, called Verify-Pro, toprovide server au
 An in-depth paragraph about your project and overview of use.
 
 ## Getting Started
-On server side: sudo python3 server.py 21 
-On client side: sudo python3 client.py 127.0.0.1 21
 
-127.0.0.1 -> Hostname (can be changed)
-21 -> port number (can be changed)
+### Dependencies for system
 
-### Dependencies
+* Tested on Ubuntu 18.04.5 LTS
+* Memory 1.9GiB
+* Pocessor- Intel CoreTM i7-4600M CPU @ 2.90GHz
+* OS type: 64 bit
+* Linux
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+### Dependencies for Neural network model
+
+### Libraries for for FTP server
 
 ### Installing
 
