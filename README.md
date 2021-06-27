@@ -11,8 +11,8 @@ On client side: sudo python3 client.py 127.0.0.1 21
 21 -> port number (can be changed)
 
 Protocol Customization:
-1. clientdialects.py -> all the client dialects for FTP protocol
-2. serverdialects.py -> all the server dialects for FTP protocl
+1. clientdialects.py -> all the client dialects for FTP protocol \
+2. serverdialects.py -> all the server dialects for FTP protocl 
 
 Note: Please refer the paper for the customized transactions of the communication protocol.
 
@@ -23,6 +23,6 @@ D1  - get file.txt\
 D4  - get karthikeya.txt \
 D8  - get gwu.txt \
 D9  - get george.txt \
-D10 - get dummy.txt \
+D10 - get dummy.txt 
 
 
