@@ -20,8 +20,9 @@ The aim of this work is to utilize protocol dialects (definition below) as an au
 * A protocol dialect is a variation of an existing protocol at the binary level to incorporate additional security measures, mutating message packets, generate different request-response transactions while maintaining the core functionality of the protocol.
 * Examples of dialects:- mutating the message packets, cross-graft numerous implementation of FTP, generating unconventional request-response pairs.
 
-## Description 
-![githubarc](https://user-images.githubusercontent.com/68829206/123555723-792b3980-d755-11eb-89f5-6a5bb15cf383.png)
+## Verify-Pro
+![architecute](https://user-images.githubusercontent.com/68829206/123556724-d2499c00-d75a-11eb-8014-0461d37b67b2.png)![archnew](https://user-images.githubusercontent.com/68829206/123556725-d2499c00-d75a-11eb-9e4d-4c34a673b19d.png)
+
 
 ## Default handshake vs. Verify-Pro handshake
 ![dialectnew](https://user-images.githubusercontent.com/68829206/123556427-26ec1780-d759-11eb-8ed2-f9d9552532d9.png)
