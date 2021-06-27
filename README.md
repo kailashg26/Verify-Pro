@@ -47,6 +47,21 @@ tensorflow-probability: 4.4.2
 Datatset for the neural network : output/enable2.csv
 ```
 ### Libraries for for FTP server
+```
+import socket
+import sys
+import os
+from cmd import Cmd
+from getpass import getpass
+import signal
+import datetime
+import pickle
+import time
+import csv
+from threading import Thread
+import subprocess
+from string import digits
+```
 
 ### Installing
 
