@@ -74,7 +74,7 @@ D10 - get dummy.txt
 * Python3
 
 ## Default handshake vs. Verify-Pro handshake
-![A test image]![example_dialect](https://user-images.githubusercontent.com/68829206/123555621-cbb82600-d754-11eb-987e-8957afe9f197.png)
+![example_dialect](https://user-images.githubusercontent.com/68829206/123555621-cbb82600-d754-11eb-987e-8957afe9f197.png)
 
 ## Acknowledgments
 
