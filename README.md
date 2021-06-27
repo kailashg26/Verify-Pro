@@ -100,7 +100,7 @@ D10 - get dummy.txt
 
 ## Programming language Version 
 
-* Python3
+* python3 (version >= 3.6)
 
 
 ## Acknowledgments
