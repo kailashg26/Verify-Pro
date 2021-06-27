@@ -13,7 +13,7 @@ In this paper, we develop a novel system, called Verify-Pro, to provide server a
 * People are always on the lookout for free or open-source software that will help them do their job quickly and efficiently, and FTP is no exception.
 
 # Objective of this work:
-The aim of this work is to utilize protocol dialects (definition below) as an authentication mechanism to verify the identities of client-server systems.
+The aim of this work is to utilize protocol dialects (definition below) as an authentication mechanism to verify the identity of server system.
 ### Note: 
 * The objective of this protocol dialect is to add authentication to FTP in addition to the existing authentication performed by TLS. The security mechanisms and protocol dialect provided here is not designed as a replacement to TLS.
 ### Protocol dialects: 
