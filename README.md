@@ -8,6 +8,18 @@ In this paper, we develop a novel system, called Verify-Pro, to provide server a
 * The FTP protocol defines how FTP programs should work together when sharing files. It uses the client/server model in its implementation. 
 * File Transfer Protocol is still widely used for fast file sharing. Biggest file sharing companies such as ExaVault, Box.com, BrickFTP, Sharefile and SmartFile are using FTP for their services. 
 * FTP was not built to be secure. It is considered to be an insecure protocol because it relies on clear-text usernames and passwords for authentication and does not use encryption. Data sent via FTP is vulnerable to sniffing, spoofing, and brute force attacks, among other basic attack methods.
+### Is FTP still a viable option for sending file transfers? 
+* While organizations across all industries have started shifting to secure FTP protocols like SFTP and FTPS, a surprising number of businesses still use FTP to transfer sensitive documents across internal and external networks. The search "how to use FTP" comes up with over 163 million results on Google, for example, versus only 29 million for the more secure "how to use secure FTP" search. 
+* People are always on the lookout for free or open-source software that will help them do their job quickly and efficiently, and FTP is no exception.
+
+# Objective of this work:
+The aim of this work is to utilize protocol dialects (definition below) as an authentication mechanism to verify the identities of client-server systems.
+### Note: 
+* The objective of this protocol dialect is to add authentication to FTP in addition to the existing authentication performed by TLS. The security mechanisms and protocol dialect provided here is not designed as a replacement to TLS.
+## Protocol dialects: 
+* A protocol dialect is a variation of an existing protocol at the binary level to incorporate additional security measures, mutating message packets, generate different request-response transactions while maintaining the core functionality of the protocol.
+* Examples of dialects:- mutating the message packets, cross-graft numerous implementation of FTP, generating unconventional request-response pairs.
+
 
 
 ## Description
