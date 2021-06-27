@@ -98,7 +98,7 @@ D10 - get dummy.txt
 ## Output Screenshot:
 ![output-dialect](https://user-images.githubusercontent.com/68829206/123555806-0078ad00-d756-11eb-8800-5b58b14edce8.jpeg)
 
-## Programming language Version 
+## Requirements
 
 * python3 (version >= 3.6)
 
