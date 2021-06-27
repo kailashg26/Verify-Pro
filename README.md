@@ -36,6 +36,7 @@ On client side: sudo python3 client.py 127.0.0.1 21
 
 ## Help: 
 ```
+* FTP server login details can be found in users.txt file 
 Users who want to try different filenames, can give this input: (get-> command, file.txt is a filename for FTP protocol)
 D1  - get file.txt
 D4  - get karthikeya.txt 
