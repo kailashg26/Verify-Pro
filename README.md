@@ -73,6 +73,8 @@ D10 - get dummy.txt
 
 * Python3
 
+## Default handshake vs. Verify-Pro handshake
+![A test image](image.png)
 
 ## Acknowledgments
 
