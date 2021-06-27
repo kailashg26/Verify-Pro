@@ -1,4 +1,4 @@
-# Project :- File Transfer Protocol (Python 3 Implementation)
+#  File Transfer Protocol (Python 3 Implementation)
 
 
 * Implemented File Transfer Protocol and some of its commands using Python 3 programming language
@@ -9,7 +9,7 @@
 
 
 ### Instructions to run the project:-
-
+Username & Password in users.txt file
 
 * **python server.py PORT_NUMBER**
 
