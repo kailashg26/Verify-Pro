@@ -36,7 +36,15 @@ The aim of this work is to utilize protocol dialects (definition below) as an au
 * Linux
 
 ### Dependencies for Neural network model
+```
+Python Version: 3.7.10
+tensorflow-addons: 0.13.0
+Pandas Version: 1.1.5
+Numpy Version: 1.19.5
+tesnorflow: 2.5.0
+tensorflow-probability: 4.4.2
 
+```
 ### Libraries for for FTP server
 
 ### Installing
