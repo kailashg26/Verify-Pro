@@ -20,6 +20,9 @@ The aim of this work is to utilize protocol dialects (definition below) as an au
 * A protocol dialect is a variation of an existing protocol at the binary level to incorporate additional security measures, mutating message packets, generate different request-response transactions while maintaining the core functionality of the protocol.
 * Examples of dialects:- mutating the message packets, cross-graft numerous implementation of FTP, generating unconventional request-response pairs.
 
+## Default handshake vs. Verify-Pro handshake
+![example_dialect](https://user-images.githubusercontent.com/68829206/123555621-cbb82600-d754-11eb-987e-8957afe9f197.png)
+
 
 
 ## Description 
@@ -101,8 +104,6 @@ D10 - get dummy.txt
 
 * Python3
 
-## Default handshake vs. Verify-Pro handshake
-![example_dialect](https://user-images.githubusercontent.com/68829206/123555621-cbb82600-d754-11eb-987e-8957afe9f197.png)
 
 ## Acknowledgments
 
