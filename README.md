@@ -1,4 +1,4 @@
-# 2021 ACSAC Artifact for Verify-Pro
+# 2021 ACSAC Artifact Submission for Verify-Pro
 # Verify-Pro: A Framework for Server Authentication using Communication Protocol Dialects
 
 <p align="left">
