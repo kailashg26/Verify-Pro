@@ -21,7 +21,7 @@ The aim of this work is to utilize protocol dialects (definition below) as an au
 * Examples of dialects:- mutating the message packets, cross-graft numerous implementation of FTP, generating unconventional request-response pairs.
 
 ## Verify-Pro
-![architecute](https://user-images.githubusercontent.com/68829206/123556724-d2499c00-d75a-11eb-8014-0461d37b67b2.png)![archnew](https://user-images.githubusercontent.com/68829206/123556725-d2499c00-d75a-11eb-9e4d-4c34a673b19d.png)
+![architecute](https://user-images.githubusercontent.com/68829206/123556724-d2499c00-d75a-11eb-8014-0461d37b67b2.png)
 
 
 ## Default handshake vs. Verify-Pro handshake
