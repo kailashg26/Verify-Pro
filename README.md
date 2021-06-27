@@ -70,6 +70,9 @@ D10 - get dummy.txt
 * Please refer the paper for the customized transactions of the communication protocol.
 * Neural network & decision tree model: check in the output folder
 
+## Output Screenshot:
+![output-dialect](https://user-images.githubusercontent.com/68829206/123555806-0078ad00-d756-11eb-8800-5b58b14edce8.jpeg)
+
 ## Programming language Version 
 
 * Python3
