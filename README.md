@@ -23,8 +23,7 @@ The aim of this work is to utilize protocol dialects (definition below) as an au
 
 
 ## Description 
-
-[image](https://user-images.githubusercontent.com/68829206/123555682-3cf7d900-d755-11eb-82f3-609a8658741a.png)
+![githubarc](https://user-images.githubusercontent.com/68829206/123555723-792b3980-d755-11eb-89f5-6a5bb15cf383.png)
 
 ## Getting Started
 
