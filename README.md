@@ -1,6 +1,3 @@
-![example_dialect](https://user-images.githubusercontent.com/68829206/123555602-b6db9280-d754-11eb-9db1-a29234410c72.png)
-![example_dialect](https://user-images.githubusercontent.com/68829206/123555607-bcd17380-d754-11eb-9af7-02aa6e06dcc4.png)
-![example_dialect](https://user-images.githubusercontent.com/68829206/123555615-c35feb00-d754-11eb-8465-b42cf5eca963.png)
 # 2021 ACSAC Artifact 
 # Verify-Pro-A Framework for Server Authentication using Communication Protocol Dialects
 
