@@ -61,14 +61,16 @@ On client side: sudo python3 client.py 127.0.0.1 21
 21 -> port number (can be changed)
 ```
 
-## Help
-
-Any advise for common problems or issues please contact: kailashg26@gwu.edu
+## Note: Users who want to try different filenames, can give this input: (get-> command, file.txt is a filename for FTP protocol)\
 ```
-command to run if program contains helper info
+D1  - get file.txt\
+D4  - get karthikeya.txt \
+D8  - get gwu.txt \
+D9  - get george.txt \
+D10 - get dummy.txt 
 ```
 
-## Version History
+## Programming language Version 
 
 * Python3
 
