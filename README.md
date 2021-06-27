@@ -16,7 +16,7 @@ In this paper, we develop a novel system, called Verify-Pro, to provide server a
 The aim of this work is to utilize protocol dialects (definition below) as an authentication mechanism to verify the identities of client-server systems.
 ### Note: 
 * The objective of this protocol dialect is to add authentication to FTP in addition to the existing authentication performed by TLS. The security mechanisms and protocol dialect provided here is not designed as a replacement to TLS.
-## Protocol dialects: 
+### Protocol dialects: 
 * A protocol dialect is a variation of an existing protocol at the binary level to incorporate additional security measures, mutating message packets, generate different request-response transactions while maintaining the core functionality of the protocol.
 * Examples of dialects:- mutating the message packets, cross-graft numerous implementation of FTP, generating unconventional request-response pairs.
 
