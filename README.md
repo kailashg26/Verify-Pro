@@ -35,8 +35,9 @@ On client side: sudo python3 client.py 127.0.0.1 21
 ```
 
 ## Help: 
+* FTP server login details can be found in users.txt file
 ```
-* FTP server login details can be found in users.txt file 
+FTP server login details can be found in users.txt file 
 Users who want to try different filenames, can give this input: (get-> command, file.txt is a filename for FTP protocol)
 D1  - get file.txt
 D4  - get karthikeya.txt 
@@ -57,8 +58,4 @@ D10 - get dummy.txt
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+* [FTP-python](https://github.com/ShripadMhetre/FTP-Python.git)
