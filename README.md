@@ -61,7 +61,7 @@ On client side: sudo python3 client.py 127.0.0.1 21
 21 -> port number (can be changed)
 ```
 
-## Note: Users who want to try different filenames, can give this input: (get-> command, file.txt is a filename for FTP protocol)\
+## Help: Users who want to try different filenames, can give this input: (get-> command, file.txt is a filename for FTP protocol)\
 ```
 D1  - get file.txt\
 D4  - get karthikeya.txt \
@@ -69,6 +69,10 @@ D8  - get gwu.txt \
 D9  - get george.txt \
 D10 - get dummy.txt 
 ```
+
+## Note:
+* Please refer the paper for the customized transactions of the communication protocol.
+* Neural network & decision tree model: check in the output folder
 
 ## Programming language Version 
 
