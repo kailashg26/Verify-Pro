@@ -39,7 +39,6 @@ Verify-Pro consists of three major modules:(1) Protocol dialects (PDs), (2) Dial
 * Memory 1.9GiB
 * Pocessor- Intel CoreTM i7-4600M CPU @ 2.90GHz
 * OS type: 64 bit
-* Linux
 
 ### Dependencies for Neural network model
 ```
