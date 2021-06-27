@@ -1,7 +1,7 @@
 # 2021 ACSAC Artifact for Verify-Pro
 # Verify-Pro: A Framework for Server Authentication using Communication Protocol Dialects
 
-<p align="center">
+<p align="left">
 In this paper, we develop a novel system, called Verify-Pro, to provide server authentication using communication protocol dialects – that uses a client-server architecture based on network protocols for customizing the communication transactions. For each session, a particular sequence of handshakes will be used as dialects. So, given the context, with the establishment of one time username and password, we use the dialects as an authentication mechanism for each request (e.g.,(get filename) in FTP) throughout the session which enforces continuous authentication. Specifically, we leverage a machine learning approach (pre-trained neural network model) on both client and server machines to communicate in a specific dialect dynamically for each request.
 </p>
 
