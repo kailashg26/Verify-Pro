@@ -24,7 +24,7 @@ The aim of this work is to utilize protocol dialects (definition below) as an au
 ![githubarc](https://user-images.githubusercontent.com/68829206/123555723-792b3980-d755-11eb-89f5-6a5bb15cf383.png)
 
 ## Default handshake vs. Verify-Pro handshake
-![Dialect1](https://user-images.githubusercontent.com/68829206/123556384-f7d5a600-d758-11eb-8fd9-3d6c1dc3d2b4.png)
+![dialectnew](https://user-images.githubusercontent.com/68829206/123556427-26ec1780-d759-11eb-8ed2-f9d9552532d9.png)
 
 ## Getting Started
 
