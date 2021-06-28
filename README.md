@@ -49,7 +49,7 @@ Numpy Version: 1.19.5
 tesnorflow: 2.5.0
 tensorflow-probability: 4.4.2
 
-Datatset for the neural network : output/enable2.csv
+Dataset for the neural network : output/enable2.csv
 ```
 ### Libraries for for FTP server
 ```
