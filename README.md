@@ -89,6 +89,7 @@ https://drive.google.com/file/d/1x0s8xmxhSu3kK3HOdXA6WeauCxjW09YP/view?usp=shari
 FTP server login details can be found in users.txt file 
 Users who want to try different filenames, can give this input: (get-> command, file.txt is a filename for FTP protocol)
 D1  - get file.txt
+D3 - get a.txt
 D4  - get karthikeya.txt 
 D8  - get gwu.txt 
 D9  - get george.txt 
