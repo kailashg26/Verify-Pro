@@ -83,6 +83,23 @@ On client side: sudo python3 client.py 127.0.0.1 21
 ### Demo video:
 https://drive.google.com/file/d/1x0s8xmxhSu3kK3HOdXA6WeauCxjW09YP/view?usp=sharing
 
+### Note: All the trained models for DDM module and SRV module are embedded in the respective folder. SO, the users can directly use them instead of training again.
+### DDM module (present in Verify-Pro/FTP-Python/Neural_network/ directory)
+```
+Loss1 & Loss2 are the loss functions used to train the neural network. Please install the dependencies for the neural network model.
+```
+### SRV module (present in Verify-Pro/FTP-Python/Decision_tree_SRV/ directory)
+```
+The source code on creating the dataset is also attached with name createdata.py. The dataset will be automatically created once the users execute the code. 
+Dependecies for SRV module:
+Pandas Version: 1.0.5
+Numpy Version: 1.18.5
+for sklearn:
+  from sklearn.tree import DecisionTreeClassifier
+  from matplotlib import pyplot as plt
+  from sklearn import tree
+```
+
 ## Help: 
 * FTP server login details can be found in users.txt file
 ```
