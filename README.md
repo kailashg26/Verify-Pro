@@ -99,7 +99,13 @@ for sklearn:
   from matplotlib import pyplot as plt
   from sklearn import tree
 ```
+### To test Verify-Pro:
+```
+:~$ get gwu.txt # to retrieve the file gwu.txt
+:~$ get a.txt # to retrieve the file a.txt
 
+Please look at the help section to try for more filenames
+```
 ## Help: 
 * FTP server login details can be found in users.txt file
 ```
