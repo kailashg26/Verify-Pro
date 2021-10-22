@@ -1,4 +1,4 @@
-# Artifact Submission for Verify-Pro
+# Artifact for Verify-Pro
 # "Can you speak my dialect": A Framework for Server Authentication using Communication Protocol Dialects (Verify-Pro)
 
 <p align="left">
