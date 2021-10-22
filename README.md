@@ -1,4 +1,4 @@
-# 2021 ACSAC Artifact Submission for Verify-Pro
+# Artifact Submission for Verify-Pro
 # "Can you speak my dialect": A Framework for Server Authentication using Communication Protocol Dialects (Verify-Pro)
 
 <p align="left">
